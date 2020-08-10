@@ -31,6 +31,8 @@ projects: []
 
 ## Introduction
 
+This post follows what is
+
 In order to embody both particle and wave features in quantum mechanics, we must rely on a mathematical scheme called wave packets.
 
 In classical physics, particles have defined position and velocity. In quantum mechanics, it describes a material particle by a *wave function* corresponding  to the matter wave associated with the particle (de Broglie's conjecture). But wave functions depend on the whole space, they *can not be localized*. The trick is trying to get a wave function that vanishes everywhere except in the neighbourhood of the "classical trajectory", meaning the amplitude being large in that region and zero outside it. This matter wave must be localized around the region of space which the particle is confined. This sort of wave function is called *wave packet*.
@@ -50,3 +52,9 @@ Considering a one dimensional wave packet $\psi(x, t)$ (particle moving along th
 \end{equation}
 
 with $\psi(k)$ being the amplitude of the wave packet.
+
+
+## References
+
+
+Zettili, Nouredine: Quantum Mechanics: Concepts and Applications, 2nd ed, 2009.
