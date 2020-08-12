@@ -75,6 +75,10 @@ The relations \eqref{eq:psi_0} and \eqref{eq:phi} show that $\phi(k)$ determines
 * Far away from $x=0$ ($\mid x \mid \gg 0$), the phase $e^{ikx}$ goes through many periods leading to violent oscillations, thereby yielding destructive interference (the various k-integrations add up to zero).
 
 
+As an example, the following image was generated using a discrete set of momenta. As it can be seen, the packet is well defined in the $x=0$ neighborhood, and vanishes as it goes away from the origin (the source code can be found [here](/posts/wave_packets/wave.py)).
+
+![Wave Packet](/posts/wave_packets/packet.png)
+
 
 ## References
 
